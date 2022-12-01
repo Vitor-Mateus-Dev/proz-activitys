@@ -1,0 +1,20 @@
+var
+Nome: caracter
+Endereço: caracter
+Cidade: caracter
+CPF: inteiros
+RG: inteiros
+
+inicio
+escreva(``seu nome´´)
+escreva(``seu Endereço´´)
+escreva(``seu Cidade´´)
+escreva(``seu CPF´´)
+escreva(`` seu RG´´)
+leia(nome, endereço, cidade, cpf, rg)
+escreva(``O seu nome é: ´´, nome);
+escreva(``O seu Endereço é: ´´, Endereço);
+escreva(``O seu Cidade é: ´´, Cidade);
+escreva(``O seu CPF é: ´´, CPF);
+escreva(``RG é: ´´, RG);
+fimalgoritmo
