@@ -1,0 +1,38 @@
+Var
+nome tipo:caracters
+nota tipo:real
+Real a1 a2 a3 a4 
+a1
+escreva ("digite seu nome")
+escreva ("digite sua nota")
+leia nome
+leia nota
+a2
+escreva ("digite seu nome")
+escreva ("digite sua nota")
+leia nome
+leia nota
+a3
+escreva ("digite seu nome")
+escreva ("digite sua nota")
+leia nome
+leia nota
+a4
+escreva ("digite seu nome")
+escreva ("digite sua nota")
+leia nome
+leia nota
+se a1>a2 a3 a4
+escreva ("Parábens (nome a1) você teve a maior nota")
+se
+a2>a1 a3 a4
+escreva ("Parábens (nome a2) você teve a maior nota")
+se
+a3>a1 a2 a4
+escreva ("Parábens (nome a3) você teve a maior nota")
+se
+a4>a1 a2 a3
+escreva ("Parábens (nome a4) você teve a maior nota")
+se
+
+
