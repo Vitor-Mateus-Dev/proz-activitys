@@ -1,0 +1,22 @@
+Trator
+Moto
+Bicicleta
+
+Var
+
+Sim,  Não, : Caractere
+-Inicio
+      escreva ("è motorizado?: ")
+      leia 
+      se sim
+      escreva ("Tem só duas rodas?: ")
+      leia
+      se sim 
+      escreva ("Moto ")
+      se não
+      escreva ("Trator ")
+      se não 
+      Escreva ("Bicicleta ")
+     fimescolha
+
+      
