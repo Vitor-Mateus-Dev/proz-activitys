@@ -1,0 +1,57 @@
+Preparação bolo:
+-Quando em casa
+==Ir para Cozinha
+-Quando na cozinha
+==colocar (compras) sobre a mesa
+==tirar das sacolas os itens:
+.Ovos
+.Leite
+.Farinha
+.Açúcar
+.Manteiga
+.Achocolatado
+==Ir ate fogão
+==Abrir registro do gás
+==Ligar forno em 180°
+==Pegar liquidificador
+==Colocar liquidificador sobre a mesa
+==Abrir Liquidificador
+==Pegar 3 ovos
+==Quebrar 3 ovos guardando as gemas
+==Colocar as gemas no liquidificador
+==Pegue um copo com medidor
+==Pegar leite
+==Abrir leite
+==Colocar 500ml de leite no copo
+==Colocar leite do copo no liquidificador
+==Pegar Farinha
+==Abrir Farinha
+==Pegar copo e colocar 500ml de farinha
+==Colocar farinha do copo no liquidificador
+==Fazer o processo da farinha no copo novamente
+==Pegar copo
+==Colocar 100g de açucar
+==Colocar açucar no liquidificador
+==Pegar achocolatado
+==Abrir achocolatado
+==Colocar 500g de achocolatado no copo
+==Colocar 500g de achocolatado do copo no liquidificador
+==Colocar tampa no liquidificador
+==Colocar liquidificador na tomada
+==ligar liquidificador
+==Aguardar 5 minutos
+==Desligar liquidificador
+==tirar da tomada
+==Pegar forma para bolo
+==Pegar Manteiga
+==Abrir manteiga
+==Pegar colher
+==Encher colher de manteiga
+==Colocar manteiga da colher na forma
+==Untar a forma 
+==Colocar mistura do liquidificador na forma
+==Abrir forno
+==Colocar forma dentro do forno
+==Fechar forno
+==Aguardar 1h
+==Retirar bolo do forno.
